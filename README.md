@@ -1,4 +1,5 @@
-rwthCTF2013
-===========
+rwthCTF 2013 scripts
+====================
 
-rwthCTF 2013 offensive scripts
+The two offensive scripts that team Hackademics used to steal flags.
+
